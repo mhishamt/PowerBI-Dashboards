@@ -16,5 +16,5 @@ The dashboard features a range of visualizations and functionalities:
 
 This Sales Performance Dashboard is a valuable tool for the team, offering data-driven insights to make informed decisions, identify areas for improvement, and optimize our sales strategies. Feel free to explore the dashboard and leverage its capabilities to enhance our sales performance.
 
-# Pratice_Dashboard
+# Practice_Dashboard
  This Dashboard is based on the dataset that is provided by the PowerBI for practicing by creating insightful and a meaningful dashboard.Visualized various charts and get to know various charts and to use proper charts at appropriate time.
